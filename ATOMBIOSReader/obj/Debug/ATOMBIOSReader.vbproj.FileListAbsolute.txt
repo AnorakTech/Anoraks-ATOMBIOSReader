@@ -1,0 +1,11 @@
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\bin\Debug\Anoraks ATOMBIOSReader.exe.config
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\bin\Debug\Anoraks ATOMBIOSReader.exe
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\bin\Debug\Anoraks ATOMBIOSReader.pdb
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\bin\Debug\Anoraks ATOMBIOSReader.xml
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.vbprojResolveAssemblyReference.cache
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.ATOMBIOSReader.resources
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.Resources.resources
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.vbproj.GenerateResource.Cache
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Debug\Anoraks ATOMBIOSReader.exe
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Debug\Anoraks ATOMBIOSReader.xml
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Debug\Anoraks ATOMBIOSReader.pdb

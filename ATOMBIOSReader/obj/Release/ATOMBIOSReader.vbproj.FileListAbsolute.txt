@@ -1,0 +1,10 @@
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\bin\Release\Anoraks ATOMBIOSReader.exe.config
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\bin\Release\Anoraks ATOMBIOSReader.exe
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\bin\Release\Anoraks ATOMBIOSReader.pdb
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\bin\Release\Anoraks ATOMBIOSReader.xml
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Release\ATOMBIOSReader.ATOMBIOSReader.resources
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Release\ATOMBIOSReader.Resources.resources
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Release\ATOMBIOSReader.vbproj.GenerateResource.Cache
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Release\Anoraks ATOMBIOSReader.exe
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Release\Anoraks ATOMBIOSReader.xml
+C:\Anoraks ATOMBIOSReader\ATOMBIOSReader\obj\Release\Anoraks ATOMBIOSReader.pdb
